@@ -1,6 +1,6 @@
 ## Introduction aux bases de données
 
-L'ensemble des documents proviennent du cours d'introduction aux bases de données donné à l'[ENSICAEN](http://www.ensicaen.fr) aux étudiants de la spécialité "Matériaux et Chimie" en 2014-2015.
+L'ensemble des documents proviennent du cours d'introduction aux bases de données présenté en 2014-2015 aux étudiants de la spécialité "Matériaux et Chimie" de l'[ENSICAEN](http://www.ensicaen.fr)  en 2014-2015.
 
 ### Licence
 
