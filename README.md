@@ -1,8 +1,9 @@
-## Introduction to database for chemistry students / Introduction aux bases de données
+## Introduction aux bases de données
 
-You can find code examples from my courses and laboratory works in C, C++, Java, SQL, LaTex  examples.
+L'ensemble des documents proviennent du cours d'introduction aux bases de données donné à l'[ENSICAEN](http://www.ensicaen.fr) aux étudiants de la spécialité "Matériaux et Chimie" en 2014-2015.
 
-### License
+### Licence
+
+L'ensemble des documents (cours, sujets de travaux pratiques et éléments de solutions) est proposé sous licence Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-    
-Courses, laboratory work assignments and code examples are licensed under a Creative Commons Attribution Share-Alike 4.0 License [CC by-sa 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
