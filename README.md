@@ -4,6 +4,6 @@ L'ensemble des documents proviennent du cours d'introduction aux bases de donné
 
 ### Licence
 
-Les documents (cours, sujets de travaux pratiques, éléments de solutions et images) sont fournis sous licence Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Les documents (cours, sujets de travaux pratiques, éléments de solutions et images) sont fournis sous licence Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
